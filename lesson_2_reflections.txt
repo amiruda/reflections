@@ -5,3 +5,7 @@ git initiated in the directory. then I need to track files.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 staging area is just a middl area between working directory and repository. Not all files in working area are in staging area. and repository is the final destination from staging area.
+
+How can you use the staging area to make sure you have one commit per logical change?
+run git diff command to check code before committing it.
+
