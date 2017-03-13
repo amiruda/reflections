@@ -12,4 +12,7 @@ run git diff command to check code before committing it.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 adding features, release, fix bugs, …
 
+How do the diagrams help you visualize the branch structure?
+They make branches more understandable by showing commits on each branch and relationship of branches together.
+
 
