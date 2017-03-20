@@ -14,3 +14,7 @@ branches are parts of repositories which allow better classification of code for
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 for cases, we are not online or to compare it with local repo before push/pull/fetch
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be very difficult because we must use chats, emails, talking face to face, etc for each small commit.
