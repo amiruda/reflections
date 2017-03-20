@@ -10,3 +10,7 @@ because it’s better under control and you won’t face with unwanted errors du
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 branches are parts of repositories which allow better classification of code for feature development, etc. forks are like clones but they happen on git servers to manipulate codes that we don’t have or don’t want to edit the main repo. clones are when we copy a repo to have it on our own machine or to duplicate it on our machine.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+for cases, we are not online or to compare it with local repo before push/pull/fetch
