@@ -18,3 +18,7 @@ for cases, we are not online or to compare it with local repo before push/pull/f
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 It would be very difficult because we must use chats, emails, talking face to face, etc for each small commit.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+for new feature, bugs, … especially when work as a group and when want to create pull requests. It helps organize code development process better in team.
